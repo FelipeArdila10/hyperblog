@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy XD
 * creado por el increible platzi team
+* Incluye ejemplo en Windows, Linux y Mac
 
 
